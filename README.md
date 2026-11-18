@@ -1,4 +1,5 @@
-# Automated Retirement & Eligibility System — SEPLAG/COTEC Technical Assessment
+# ARES 
+Automated Retirement & Eligibility System - SEPLAG/COTEC Technical Assessment
 
 A full-stack portfolio application developed for a **SEPLAG/COTEC technical selection assessment**, focused on managing **public-servant retirement benefit requests** and their supporting documents.
 
@@ -119,7 +120,7 @@ I also developed a separate employee-benefits system called *Benefícios onLine*
 
 ## Author
 
-**Fernando Ellery** — Senior Software Engineer specializing in Java, Spring Boot, REST APIs and enterprise applications.
+**Fernando Ellery** - Senior Software Engineer specializing in Java, Spring Boot, REST APIs and enterprise applications.
 
 - [GitHub](https://github.com/fefeutitan)
 - [LinkedIn](https://www.linkedin.com/in/fernando-ellery/)
