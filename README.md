@@ -1,4 +1,4 @@
-# Retirement Benefits System — SEPLAG/COTEC Technical Assessment
+# Automated Retirement & Eligibility System — SEPLAG/COTEC Technical Assessment
 
 A full-stack portfolio application developed for a **SEPLAG/COTEC technical selection assessment**, focused on managing **public-servant retirement benefit requests** and their supporting documents.
 
